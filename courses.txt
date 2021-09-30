@@ -1,3 +1,4 @@
 DevOps Course
 Ansible is configuration management tool
 Kubernetes is container orchestration tool
+Docker has become a standard for app runtime
